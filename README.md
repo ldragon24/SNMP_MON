@@ -32,13 +32,12 @@ RealTime мониторинг ИБП
 3.	Запуск самодиагностики ИБП
 4.	Запуск калибровки батарей ИБП
 
-...
-
+---
 
 SNMP Monitor is designed to monitor the status of uninterruptible power supplies, network switches, printers and other network devices via SNMP, ICMP and WMI. 
 
 The program's capabilities:
-*No installation required, runs from any place. It requires 3 files: snmpapcmon.exe, snmpapcmon.mdb and SnmpSharpNet.dll.
+* No installation required, runs from any place. It requires 3 files: snmpapcmon.exe, snmpapcmon.mdb and SnmpSharpNet.dll.
 * Requests information about the state of devices via SNMP and WMI (for servers and workstations) and displays it in the list.
 * In case of critical device state (such as excess temperature, switching to battery power, device unavailability) the program displays a message on the monitor screen и\или.
 
@@ -64,4 +63,4 @@ Disconnecting the UPS with shutdown of the loaded equipment before the UPS is di
 2.	Turning on the UPS
 3.	Launch of UPS self-diagnostics
 4.	Start calibration of UPS batteries
-...
+---
