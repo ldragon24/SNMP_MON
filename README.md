@@ -55,12 +55,12 @@ Uninterruptible Power Supplies module
   Displays and saves to the database various parameters of uninterruptible power supplies. Saved data can be viewed as graphs.
   
 RealTime UPS monitoring
-  Module for displaying information about the UPS status in "real time" (information update interval 1 second).
-  
+  Module for displaying information about the UPS status in "real time".
+
 UPS management
   Uninterruptible power supply management in plan has been implemented:
-Disconnecting the UPS with shutdown of the loaded equipment before the UPS is disconnected.
-2.	Turning on the UPS
-3.	Launch of UPS self-diagnostics
-4.	Start calibration of UPS batteries
----
+	1. Disconnecting the UPS with shutdown of the loaded equipment before the UPS is disconnected.
+	2. Turning on the UPS
+	3. Launch of UPS self-diagnostics
+	4. Start calibration of UPS batteries
+ 
